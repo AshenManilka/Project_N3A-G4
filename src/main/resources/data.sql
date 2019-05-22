@@ -2,11 +2,6 @@ insert into customers values(1,'addr1','email1','ashen','Rathnasekara','pass1','
 insert into customers values(2,'addr2','email2','ashen','Rathnasekara','pass2','0766867936','uname2');
 insert into customers values(3,'addr3','email3','ashen','Rathnasekara','pass3','0766867936','uname3');
 
-insert into delivery values(1,'Malabe',2500,'kumara','kumara@gmail.com','Kottu',2,0766468789);
-insert into delivery values(2,'Kandy',1500,'Kamal','kamal@gmail.com','Rice',2,0766468789);
-insert into delivery values(3,'Colombo',3500,'Nilanthi','nilanthi@gmail.com','Pizza',1,0766468789);
-insert into delivery values(4,'Kurunegala',2000,'ashen','ashen@gmail.com','Hotdog',10,0766468789);
-
 insert into foods values(1,10,'discription','Rice',500,5);
 insert into foods values(2,5,'discription','Kottu',400,50);
 insert into foods values(3,2.5,'discription','Pizza',1500,55);
