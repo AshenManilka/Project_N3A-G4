@@ -54,13 +54,13 @@ Method- GET
 Url- http://localhost:8080/customers/customer
 Method- POST
 Body- {
-"username": "dilusha123",
-"password": "asdf",
-"fname": "Dilusha",
-"lname": "Rajaguru",
+"username": "ashen123",
+"password": "1234",
+"fname": "ashen",
+"lname": "manilka",
 "address": "Kaduwela",
-"email": "dilushan@gmail.com",
-"phone": "768974123",
+"email": "ashen@gmail.com",
+"phone": "770261700",
 "id": 5
 }
 
@@ -68,12 +68,12 @@ Body- {
 Url- http://localhost:8080/customers/customer
 Method- PUT
 Body- {
-"username": "dilusha123",
-"password": "asdf",
-"fname": "Dilusha",
-"lname": "Labuthale",
+"username": "ashen123",
+"password": "1234",
+"fname": "supun",
+"lname": "ruchira",
 "address": "Kaduwela",
-"email": "dilushan@gmail.com",
+"email": "supun@gmail.com",
 "phone": "0718002536",
 "id": 5
 }
